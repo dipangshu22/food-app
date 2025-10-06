@@ -32,7 +32,7 @@ export default function Category(props) {
         },
         {
             id:5,
-            name:"main course",
+            name:"main_course",
             image:<FaBowlFood  className='w-[40px] h-[40px]  text-green-300'/>
         },
         {
